@@ -1,4 +1,4 @@
-# Anomaly-detection
+# Analyzing Twitch Gaming User Data.
 Project Title: Detailed Analysis of User Engagement and Chat Activity: Insights from 10 Million Messages Using SQL and Matplotlib
 Project Description
 This project delves into the intricate patterns of user engagement and chat activity by analyzing a substantial dataset comprising 10 million chat messages and user interactions. Leveraging SQL for data extraction and Matplotlib for visualization, the project aims to uncover actionable insights that can inform strategies for enhancing user experience and engagement.
